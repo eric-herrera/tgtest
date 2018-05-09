@@ -2,6 +2,8 @@
 A quick telegram api test
 
 ## Steps
+    $ git clone https://github.com/eric-herrera/tgtest
+    $ cd tgtest
     $ virtualenv -p python3 venv
     $ source venv/bin/activate
     (venv) $ pip install -r requirements.txt
